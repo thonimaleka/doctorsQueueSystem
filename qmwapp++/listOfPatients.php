@@ -47,9 +47,9 @@ require 'dbconfig/config.php';
 
     
     <form class="myform" action="listOfPatients.php" method="post">
-    
+    <a href="patient.php">Click Here to get a number</a>
 
-    <input name="submit_btn" type= "submit" id="signup_btn"  value="Sign Up"/><br>
+    <!-- <input name="submit_btn" type= "submit" id="signup_btn"  value="Sign Up"/><br> -->
    
     
 </form>

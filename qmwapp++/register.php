@@ -100,7 +100,7 @@ session_start();
 </head>
 <body style="background-color: #d35400">
 	<div id="main-wrapper">
-	<center><h2>Sign Up Form</h2>
+	<center><h2>Doctor Sign Up Form</h2>
 		<form action="register.php" method="post">
 			<div class="imgcontainer">
 				<img src="imgs/female.jpg" alt="Avatar" class="avatar">

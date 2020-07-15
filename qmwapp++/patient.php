@@ -13,7 +13,7 @@ require 'dbconfig/config.php';
 <body style="background-color:#e67e22">
 
 <div id="main-wrapper">
-    <center><h2>Register Form</h2>
+    <center><h2> Patient Register Form</h2>
     <img src="imgs/female.jpg" class="avatar"/>
     </center>
 
